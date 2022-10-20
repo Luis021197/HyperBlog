@@ -1,6 +1,6 @@
 body
 {
-    color: darkslategrey;
+    color: #ff0000;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -37,11 +37,5 @@ body
     font-size: 20px
 }
 
-
-body{
-    color:#333;text-align:center;
-    font-family:Arial;font-size:16px;margin:0;
-    padding:0
-}
 
 
